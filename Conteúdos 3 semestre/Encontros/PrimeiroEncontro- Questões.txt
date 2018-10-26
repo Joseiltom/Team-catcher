@@ -1,0 +1,35 @@
+Objetivo geral - Construir um sistema que disponibilize os mais diversos tipos de eventos, assim possibilitando que os
+diversos tipos de usuários encontre os eventos de acordo com suas prioridades.
+O sistema deverá cadastrar e gerenciar os mais diversos tipos de eventos e os usuários deverão está
+cadastrados no sistema para se inscreverem em algum evento.
+
+
+UC001- Como deseja que sejam feitos o armazenamento dos eventos ?
+R=
+UC001- Que exigências os eventos devem cumprirem para serem armazenados ?
+R=
+UC002- Como deseja que sejam feitas as inscrições ?
+R=
+UC002- O que deve ser solicitado do usuário no ato da inscrição ?
+R=
+UC003- Como pretende que o usuário localize um evento ?
+R=
+UC004- Como deve ser feitas as notificações dos eventos para o usuário ?
+R=
+UC005- Quais informações(dados) devem serem exigidos do usuário durante o cadastro ?
+R=
+UC006- Alguma maneira específica para realização de autenticação (login) no sistema ?
+R=
+
+
+RF-Quais as funções você acha que o sistema deve ter ?
+R=
+
+RN-Quais as regras o sistema deve ter ?
+R=
+
+
+
+
+
+ 
